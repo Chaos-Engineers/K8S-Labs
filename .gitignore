@@ -1,0 +1,10 @@
+.vscode
+.terraform
+*.tfvars
+*.tfstate
+terraform.tfstate
+terraform.tfstate.backup
+node_modules
+tmp
+build
+dist
